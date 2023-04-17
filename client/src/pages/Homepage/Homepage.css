@@ -1,0 +1,20 @@
+.title {
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 5em;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+    margin-top: 15%;
+}
+.subTitle {
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 2em;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+    margin-top: 5%;
+}
+.manExercising {
+    border: solid 5px black;
+}
+

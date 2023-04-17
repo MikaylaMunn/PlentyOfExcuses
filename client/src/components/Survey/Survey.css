@@ -1,0 +1,8 @@
+.question-text,
+.score {
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 5em;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+}

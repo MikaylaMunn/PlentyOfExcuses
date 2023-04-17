@@ -1,0 +1,15 @@
+/* background on the index page */
+#root {
+    background: center / contain no-repeat url("../images/weightRoom.jpeg");
+    background-attachment: fixed;
+    color: white;
+}
+.header{
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 10em;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+}
+
+

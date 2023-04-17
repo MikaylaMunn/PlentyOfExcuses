@@ -1,0 +1,110 @@
+.login{
+    margin-top: 15%;
+    margin-left: 25%;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 20em;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+}
+h3 {
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 10em;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+}
+/* will be added or removed from items */
+ .hidden {
+    display: none;
+}
+ /* At the top of the survey page */
+ h6 {
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 10em;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+}
+/* the small i tag at the top of the page stating answer these questions honestly. */
+i {
+    text-shadow: 1px 1px 1px white;
+    font-size: 18px;
+}
+
+/* The div that is holding the heading on the page in blue together */
+.holdingH {
+    margin-top: 5em;
+}
+/* for the questions */
+.btn-danger {
+    margin-right: 3%;
+    font-size: 16px;
+}
+
+/* On the card that shows the user's match */
+h5 {
+    text-align: center;
+    font-family: signPainter;
+    font-size: 10em;
+    -webkit-background-clip: text;
+    text-shadow: 2px 2px 2px black;
+}
+/* to display the name and photo of the person matched */
+.card-text{
+    color: black;
+    text-shadow: 1px 1px 2px white;
+    font-size: 26px;
+}
+#submitBtn {
+    margin-left: 5em;
+}
+
+@media screen and (max-width: 1199px) and (min-width: 600px) {
+
+/* At the top of the survey page */
+h6 {
+    font-size: 20px;
+}
+/* the small i tag at the top of the page stating answer these questions honestly. */
+i {
+    text-shadow: 1px 1px 1px white;
+    font-size: 18px;
+}
+#userInfo{
+    margin-left: 2%;
+}
+/* The div that is holding the heading on the page in blue together */
+.holdingH {
+    margin-top: 5em;
+}
+/* for the questions */
+.btn-danger {
+    margin-right: 3%;
+    font-size: 14px;
+}
+/* will be added or removed from items */
+.hidden {
+    display: none;
+}
+/* On the card that shows the user's match */
+h5 {
+    text-align: center;
+    font-family: signPainter;
+    font-size: 10em;
+    -webkit-background-clip: text;
+    text-shadow: 2px 2px 2px black;
+}
+/* to display the name and photo of the person matched */
+.card-text{
+    color: black;
+    text-shadow: 1px 1px 2px white;
+    font-size: 26px;
+}
+#submitBtn {
+    margin-left: 5em;
+}
+}

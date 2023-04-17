@@ -1,0 +1,17 @@
+.register {
+    margin-top: 15%;
+    margin-left: 25%;
+    width: 50%;
+}
+.section {
+    font-family: Marker Felt;
+    font-size: 28px;    
+}
+.header {
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 10em;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+}
+

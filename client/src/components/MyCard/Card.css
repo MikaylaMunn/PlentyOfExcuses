@@ -1,0 +1,8 @@
+.myHeader {
+    text-align: center;
+    font-family: Marker Felt;
+    font-size: 26px;
+    -webkit-background-clip: text;
+    text-shadow: 5px 5px 2px black;
+    margin-bottom: 2%;
+}
